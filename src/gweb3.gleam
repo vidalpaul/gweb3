@@ -1,5 +1,5 @@
 import gleam/io
 
 pub fn main() {
-  io.println("Hello from web3!")
+  io.println("Hello from gweb3!")
 }
